@@ -1,1 +1,1 @@
-membuat kalkulator sederhana dengan html
+Membuat kalkulator sederhana dalam html dengan script js
